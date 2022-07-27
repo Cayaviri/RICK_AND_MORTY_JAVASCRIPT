@@ -1,7 +1,15 @@
 *{
     font-family: 'Edu VIC WA NT Beginner', cursive;
 }
+
 .cajita{
     text-align:center;
-    
+    /*background: linear-gradient(to bottom right, rgb(7, 7, 7), rgb(70, 67, 67));*/
+    color: #fff;
+    margin:0;
+}
+
+.col{
+    display: flex;
+    justify-content: center !important;
 }
